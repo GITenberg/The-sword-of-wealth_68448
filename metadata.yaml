@@ -1,0 +1,28 @@
+_repo: The-sword-of-wealth_68448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas, Henry Wilton
+    birthdate: 1867
+    gutenberg_agent_id: '54568'
+    url: http://www.gutenberg.org/2009/agents/54568
+description: ''
+gutenberg_issued: '2022-07-02'
+identifiers:
+  gutenberg: '68448'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn1haa&view=1up&seq=15&skin=2021
+pgterms:marc905: 20210716151620thomas
+pgterms:marc906: '1906'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was made using scans of public domain works put online by Harvard University
+  Library's Open Collections Program.)
+publication_note: United States :G. P. Putnams's Sons,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sword of wealth
+url: http://www.gutenberg.org/ebooks/68448
